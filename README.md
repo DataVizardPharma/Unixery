@@ -8,15 +8,15 @@ Myscript5.sh
 
 How to use: 
 
-** Simple Method:
+** Simple Method **:
 - step (a) chmod u+x thwewhole path to the script/MyScript5.sh
 -  step (b) the whole path to the script/MyScript5.sh jpg
 >it will create a jpg folder with all the jpg that were not tidily stored ^^'
 
 
-** Exports Method:
+** Exports Method **:
 
->"by exporting the path of the script", ** export PATH=$PATH:/whatsoeverpath/whereverpath/whateverpath
+>"by exporting the path of the script", ** export PATH=$PATH:/whatsoeverpath/whereverpath/whateverpath**
 
 one can simply write: 
 - step (a') chmod u+x Myscript5.sh
